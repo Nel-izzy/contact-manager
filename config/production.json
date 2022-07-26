@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://softgeey:nel123@cluster0.ntocx.mongodb.net/contact-manager?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
